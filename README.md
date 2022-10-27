@@ -20,6 +20,14 @@ This allows people with visual disabilities the ability to know what images are 
 
 I learned the importance of alternative text, how to implement it, and how to check if it works. I also learned the basics of coding with HTML and CSS to make simple and readable webpages.
 
+## Usage
+
+![screenshot 1](assets/images/screenshot.png)
+
+## Credit
+
+UNB Coding Bootcamp
+
 ## License
 
 MIT License
@@ -44,3 +52,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+
+[def]: Develop/assets/images/screenshot.png
