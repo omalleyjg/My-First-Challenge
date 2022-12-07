@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and Nav Styling Start */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,9 +41,16 @@ a {
     text-decoration: none;
 }
 
+/* Header and Nav Styling End */
+
+
+
 p {
-    font-size: 16px;
+    font-size: 16px; 
+    /* Font Size of All <p> Tags */
 }
+
+/* Hero Image Start */
 
 .hero {
     height: 800px;
@@ -50,6 +59,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Hero Image End */
+
+/* Main Content Start */
 
 .float-left {
     float: left;
@@ -108,6 +121,10 @@ p {
     text-align: center;
 }
 
+/* Main Content End */
+
+/* Right Side Content Images Start */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -125,6 +142,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Right Side Content Images End */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -153,6 +172,8 @@ p {
     color: #ffffff;
 }
 
+/* Images Styling Start */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -164,6 +185,10 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* Images Styling End */
+
+/* Content Titles Start */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -180,6 +205,10 @@ p {
     font-size: 36px;
 }
 
+/* Content Titles End */
+
+/* Footer Styling Start */
+
 footer {
     padding: 30px;
     clear: both;
@@ -190,3 +219,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Footer Styling End */
